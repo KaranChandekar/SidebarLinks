@@ -13,3 +13,7 @@ toggleBtn.addEventListener("click", function () {
   // one liner toggle
   sidebar.classList.toggle("show-sidebar");
 });
+
+closeBtn.addEventListener("click", function () {
+  sidebar.classList.remove("show-sidebar");
+});
