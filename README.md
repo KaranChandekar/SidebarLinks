@@ -3,12 +3,6 @@
 
 I created responsive navbar with sidebar links section. Created this with html, css and javascript.
 
-
-## Creater
-
-- [@KaranChandekar](https://github.com/KaranChandekar)
-
-
 ## Languages
 
 - HTML
